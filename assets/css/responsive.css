@@ -1,0 +1,33 @@
+@media(max-width: 768px) {
+    .container{
+    width: 100%;
+    }
+    #nav{
+        padding: 20px;
+    }
+    #nav .menu{
+        display: none;
+    }
+    #nav .authentication{
+        display: none;
+    }
+    #nav .mobile-menu{
+    display: block;
+}
+
+#contains .part1{
+    width: 100%;
+}
+
+#contains .part2{
+    width: 100%;
+}
+#contains{
+    padding: 40px 20px;
+}
+
+#contains h1{
+    font-size: 45px;
+    
+}
+}
